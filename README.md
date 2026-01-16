@@ -6,7 +6,7 @@ It dynamically displays the **current date, day, month, and year** using JavaScr
 ---
 
 ## 🌐 Live Demo
-🔗 **View Project:** https://kunal-25-dsc-14.github.io/mini_calendar/
+https://kunal-25-dsc-14.github.io/mini_calender/
 
 ---
 
